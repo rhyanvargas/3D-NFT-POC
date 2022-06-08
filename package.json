@@ -7,9 +7,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/drei": "^9.13.0",
+    "@react-three/fiber": "^8.0.22",
     "next": "12.1.4",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "styled-components": "^5.3.5",
+    "three": "^0.141.0"
   },
   "devDependencies": {
     "eslint": "8.12.0",
